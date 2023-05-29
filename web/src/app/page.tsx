@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>oi</div>
+  return <div className="h-screen bg-zinc-950">oi</div>
 }
